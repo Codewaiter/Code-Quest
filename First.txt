@@ -1,0 +1,67 @@
+HELLO evryone!
+A set of intructions that tells the computer how to behave, what to do and derive at a solution to a particular problem is:
+A. 
+Algorithm
+
+B. 
+Pseudocode
+
+C. 
+Programming
+
+D. 
+Program
+
+ 2. 
+A set of logically sequenced instructions that allows to find the solution to a problem is:
+A. 
+Algorithm
+
+B. 
+Pseudocode
+
+C. 
+Programming
+
+D. 
+Program
+
+ 3. 
+The six stages of program development in logical order are:
+A. 
+Define, Analyze, Write, Test, Document, Debug
+
+B. 
+Define, Analyze, Develop, Write, Test and Debug, Document
+
+C. 
+Define, Write, Develop, Analyze, Test, Document
+
+D. 
+Define, Develop, Write, Test, Document, Debug
+
+ 4. 
+The programming language that is used to show pupils the concept and structure of programming is called:
+A. 
+Basic
+
+B. 
+Cobol
+
+C. 
+Pascal
+
+D. 
+Java
+
+ 5. 
+Java is an example of which generation programming language
+A. 
+4GLs B. 
+3rd
+
+C. 
+2nd
+
+D. 
+1st
