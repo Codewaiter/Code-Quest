@@ -57,7 +57,9 @@ Java
  5. 
 Java is an example of which generation programming language
 A. 
-4GLs B. 
+4GLs 
+
+B. 
 3rd
 
 C. 
